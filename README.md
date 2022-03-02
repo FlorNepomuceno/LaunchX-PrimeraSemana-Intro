@@ -7,7 +7,7 @@ Descripción: Es un despacho de abogados que quiere automatizar las demandas de 
   -  [Branding](/abogabot-brand.jpg)
   -  [Buyer Persona](/buyer-persona.jpg)
   -  [Público Objetivo](/publico-objetivo.jpg)
-  -  [Wireframe UX](/wireframe-ux.jpg)}
+  -  [Wireframe UX](/wireframe-ux.jpg)
   -  [Wireframe UI](/wireframe-ui.jpg)
 
  [Link a Figma](https://www.figma.com/file/90EAL2Tr1W2OwMTUpzmWYt/Abogabot-team-library?node-id=414%3A2)
